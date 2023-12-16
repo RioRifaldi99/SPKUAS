@@ -1,0 +1,11 @@
+ID,nama_handphone,ram_Gb,rom_Gb,chipset,layar,harga_Rp,baterai
+1,Xiaomi Redmi 10A,6,128,MediaTek Helio G25,6.5 inci,2000000,5000
+2,Realme C25,4,64,MediaTek Helio G70,6.5 inci,2000000,6000
+3,Samsung Galaxy A02,3,32,MediaTek MT6739,6.5 inci,1500000,5000
+4,Vivo Y12s,3,32,MediaTek Helio P35,6.52 inci,1000000,5000
+5,Oppo A15,3,32,MediaTek Helio P35,6.52 inci,1500000,4230
+6,Infinix Hot 11S,8,128,MediaTek Helio G88,6.78 inci,2500000,5000
+7,Tecno Spark 8,3,32,MediaTek Helio P22,6.6 inci,2000000,5000
+8,Nokia C30,3,32,Unisoc SC9863A,6.82 inci,1300000,6000
+9,Motorola Moto G20,4,64,MediaTek Helio G35,6.5 inci,2500000,5000
+10,Lenovo K13,3,32,MediaTek Helio A22,6.5 inci,1500000,5000
